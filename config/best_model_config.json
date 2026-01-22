@@ -1,0 +1,12 @@
+{
+    "hidden_layers": [128, 84, 65],
+    "learning_rate": 0.01198,
+    "l2_lambda": 0.0006,
+    "dropout_rate": 0.131,
+    "momentum": 0.984,
+    "batch_size": 64,
+    "hidden_activation": "tanh",
+    "optimizer": "adam",
+    "use_batch_norm": false,
+    "weight_init": "he"
+}

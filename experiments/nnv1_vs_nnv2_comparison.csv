@@ -1,0 +1,3 @@
+config,nnv1_mee,nnv1_std,nnv1_time,nnv2_mee,nnv2_std,nnv2_time,improvement
+hall_of_fame_best,17.382999,0.510174,24.3,14.822731,0.890158,32.9,2.560268
+random_search_candidate,16.992295,0.634145,34.8,15.753714,0.977752,104.0,1.238581

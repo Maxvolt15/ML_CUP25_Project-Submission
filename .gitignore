@@ -1,0 +1,14 @@
+# User specified files to ignore
+Justification.txt
+/prompts
+# Python standard ignores
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+*.egg-info/
+dist/
+build/
+.env
+.venv
+env/
+venv/
